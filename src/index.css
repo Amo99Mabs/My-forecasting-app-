@@ -42,38 +42,36 @@ main {
 .weather-app-city {
   margin: 0;
   font-size: 38px;
-  line-height:  48px;
+  line-height: 48px;
 }
 .weather-app-data {
   display: flex;
   justify-content: space-between;
 }
-.weather-app-details{
-    font-size: 16px;
-    line-height: 20px;
-    color: black;
-    font-weight: 500;
+.weather-app-details {
+  font-size: 16px;
+  line-height: 20px;
+  color: black;
+  font-weight: 500;
 }
-.weather-app-details strong{
-    color: orangered;
-
+.weather-app-details strong {
+  color: orangered;
 }
-.weather-app-icon{
-    font-size: 44px;
-    margin-top: 22px;
+.weather-app-icon {
+  font-size: 44px;
+  margin-top: 22px;
 }
 .weather-app-temperature-container {
-    display: flex;
+  display: flex;
 }
-.weather-app-temprature{
-    font-size: 88px;
-    font-weight: bold;
-    margin: 10px;
+.weather-app-temprature {
+  font-size: 88px;
+  font-weight: bold;
+  margin: 10px;
 }
-.weather-app-unit{
-    margin-top: 16px;
-    font-size: 28px;
-
+.weather-app-unit {
+  margin-top: 16px;
+  font-size: 28px;
 }
 footer {
   border-top: 1xp solid white;
